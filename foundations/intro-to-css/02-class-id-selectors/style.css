@@ -1,4 +1,23 @@
+
+/* CLASSES */
 .odd-class {
     color: rgb(000, 000, 000);
     background-color: #FF000050;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+.element-three {
+    font-size: 24px;
+}
+
+/* IDS */
+
+#element-two {
+    color: hsl(226, 55%, 35%);
+    font-size: 36px;
+}
+
+#element-four {
+    background-color: #3ba137d0;
+    font-size: 24px;
+    font-weight: bold;
 }
