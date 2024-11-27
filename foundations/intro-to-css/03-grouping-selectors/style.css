@@ -1,16 +1,16 @@
 /* CLASSES */
-.font {
+.Button_1,
+.Button_2 {
     font-family: 'Helvetica', 'Times New Roman', sans-serif;
     font-size: 28px;
 }
-
-/* IDS */
-#Button_1 {
+.Button_1 {
     background-color: black;
     color: #ffffff;
 
 }
 
-#Button_2 {
+.Button_2 {
     background-color: hsl(61, 93%, 50%);
 }
+/* IDS */
