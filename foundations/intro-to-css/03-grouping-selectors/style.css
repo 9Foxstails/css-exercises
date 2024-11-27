@@ -1,0 +1,16 @@
+/* CLASSES */
+.font {
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+/* IDS */
+#Button_1 {
+    background-color: black;
+    color: #ffffff;
+
+}
+
+#Button_2 {
+    background-color: hsl(61, 93%, 50%);
+}
